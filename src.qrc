@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>стрелка1.png</file>
+        <file>degree.jpeg</file>
+    </qresource>
+</RCC>
